@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466424013840",
+    "project_id": "checkrodaapp-8c879",
+    "storage_bucket": "checkrodaapp-8c879.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466424013840:android:d59b228e87a783ba6e1695",
+        "android_client_info": {
+          "package_name": "com.cekroda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmjjMQcQhdnxbTuP6ZQaiD2wrf0jYjT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
